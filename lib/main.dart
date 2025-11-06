@@ -33,7 +33,7 @@ class PrimeiraUltimaScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Lista base
+
     List<int> a = [5, 10, 15, 20, 25];
 
     // Chama a função para pegar o primeiro e o último
